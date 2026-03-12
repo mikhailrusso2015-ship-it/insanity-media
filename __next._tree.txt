@@ -1,3 +1,4 @@
-:HL["/insanity-media/_next/static/chunks/ff124b73d9157179.css","style"]
+:HL["/insanity-media/_next/static/chunks/94799a5d0f1f1a67.css","style"]
 :HL["/insanity-media/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"pcpCXMIUNPjxGvuJYl4Ll","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/insanity-media/materiales/logo.jpg","image"]
+0:{"buildId":"aJwXDX6QdWh8-qxvYt3K_","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
